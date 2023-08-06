@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Intercom Chat ID Extractor",
+  "name": "Chat ID Extractor",
   "version": "1.0",
-  "description": "Extract chat ID from the current Intercom URL and copy it to the clipboard.",
+  "description": "Extract chat ID from the current URL and copy it to the clipboard.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
