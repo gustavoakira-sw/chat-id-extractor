@@ -1,0 +1,14 @@
+body {
+    background-color: transparent;
+}
+
+#extractButton {
+    border: 2px black;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    font-display: block;
+    padding: 30px;
+    cursor: pointer;
+}
